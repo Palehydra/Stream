@@ -1,35 +1,35 @@
 # Commands
 
-!accountage
+!accountage - See your account age.
 #
-!flipcoin
+!flipcoin - It's a 50/50.
 #
-!followage
+!followage - See how long you have been following.
 #
-!fortune
+!fortune - Know your future.
 #
-!lurk
+!lurk - Go lurk somewhere.
 #
-!time
+!time - My current time.
 #
-!uptime
+!uptime - The uptime for this stream.
 #
 !join - Join an active raffle
 #
-!tip - You can Tip to $(channel) using this link https://StreamElements.com/${channel.alias}/tip
+!tip - You can Tip to Palehydra using this link https://streamelements.com/palehydra/tip
 #
-!discord
+!discord - Join my discord channel. 
 #
-!achieve
+!achieve - See all my achievements.
 #
-!youtube
+!youtube - Follow my YouTube channel. 
 #
-!cards
+!cards - See my card obsession. 
 #
-!music
+!music - My Spotify.
 #
-!song
+!song - Current playing song.
 #
-!lastsong
+!lastsong - The previously playing song.
 #
 
