@@ -23,4 +23,10 @@ You’ll be asked to provide one of three reasons for blocking the user.
 /unblock {username} - This command will allow you to remove users from your block list that you previously added.
 Users can also click on the Unignore button which replaces the Block button.
 #
-/disconnect - This command will simply disconnect you from the chat server. To reconnect, simply refresh the page./w username messageThis command sends a private message to another user on Twitch.@usernameThis command will allow you to target your message at a user, or reply directly to a specific message they’ve posted in the chat.To ReplyThis command will allow you to start a thread by replying directly to a message, or to add your message to an existing thread.
+/disconnect - This command will simply disconnect you from the chat server. To reconnect, simply refresh the page.
+#
+/w {username} {message} - This command sends a private message to another user on Twitch. 
+#
+@{username} - This command will allow you to target your message at a user, or reply directly to a specific message they’ve posted in the chat.
+#
+To ReplyThis command will allow you to start a thread by replying directly to a message, or to add your message to an existing thread.
