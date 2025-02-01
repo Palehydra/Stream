@@ -1,7 +1,9 @@
 # Commands
 
 !accountage
+#
 !flipcoin
+#
 !followage
 !fortune
 !lurk
