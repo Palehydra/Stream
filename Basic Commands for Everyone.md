@@ -1,6 +1,6 @@
 # Command
 
-/modsThis command will display a list of all chat moderators for that specific channel.
+/mods This command will display a list of all chat moderators for that specific channel.
 #
 /gift {quantity} Gift a specific number of Subs to the community.
 #
