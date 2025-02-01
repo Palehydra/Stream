@@ -29,4 +29,3 @@ Users can also click on the Unignore button which replaces the Block button.
 #
 @{username} - This command will allow you to target your message at a user, or reply directly to a specific message they’ve posted in the chat.
 #
-To ReplyThis command will allow you to start a thread by replying directly to a message, or to add your message to an existing thread.
